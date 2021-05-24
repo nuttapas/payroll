@@ -32,7 +32,7 @@
                             <div class="row">
                                 <div class="col-2">
                                     <div class="form-group">
-                                        <label>รหัส</label>
+                                        <label>รหัสพัสดุ</label>
                                         <input type="firstnameth" class="form-control">
                                     </div>
                                 </div>
