@@ -23,8 +23,6 @@
 
             <main role="main" class="col-md-10 ml-sm-auto col-lg-10 px-md-4 mt-3">
                 <h3>อนุมัติลางาน</h3>
-                <hr>
-
                 <div class="card">
                     <div class="col-auto mt-2">
                         <div class="card">
